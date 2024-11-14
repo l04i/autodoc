@@ -1,0 +1,228 @@
+{
+  "categories": [
+    {
+      "id": "11000",
+      "name": "Tyres and related products",
+      "imageUrl": "https://scdn.autodoc.de/catalog/categories/600x600/11000.png"
+    },
+    {
+      "id": "10435",
+      "name": "Oils and fluids",
+      "imageUrl": "https://scdn.autodoc.de/catalog/categories/600x600/10435.png",
+      "link": "https://www.autodoc.co.uk/car-parts/oils-and-fluids"
+    },
+    {
+      "id": "10106",
+      "name": "Brakes",
+      "imageUrl": "https://scdn.autodoc.de/catalog/categories/600x600/10106.png",
+      "link": "https://www.autodoc.co.uk/car-parts/brake-system"
+    },
+    {
+      "id": "10105",
+      "name": "Filters",
+      "imageUrl": "https://scdn.autodoc.de/catalog/categories/600x600/10105.png",
+      "link": "https://www.autodoc.co.uk/car-parts/filters"
+    },
+    {
+      "id": "10102",
+      "name": "Engine",
+      "imageUrl": "https://scdn.autodoc.de/catalog/categories/600x600/10102.png",
+      "link": "https://www.autodoc.co.uk/car-parts/engine"
+    },
+    {
+      "id": "10118",
+      "name": "Wiper and washer system",
+      "imageUrl": "https://scdn.autodoc.de/catalog/categories/600x600/10118.png",
+      "link": "https://www.autodoc.co.uk/car-parts/windscreen-cleaning-system"
+    },
+    {
+      "id": "10108",
+      "name": "Ignition and preheating",
+      "imageUrl": "https://scdn.autodoc.de/catalog/categories/600x600/10108.png",
+      "link": "https://www.autodoc.co.uk/car-parts/spark-glow-ignition"
+    },
+    {
+      "id": "10113",
+      "name": "Suspension",
+      "imageUrl": "https://scdn.autodoc.de/catalog/categories/600x600/10113.png",
+      "link": "https://www.autodoc.co.uk/car-parts/axle-mounting-steering-wheels"
+    },
+    {
+      "id": "10110",
+      "name": "Electrics",
+      "imageUrl": "https://scdn.autodoc.de/catalog/categories/600x600/10110.png",
+      "link": "https://www.autodoc.co.uk/car-parts/electrics"
+    },
+    {
+      "id": "10111",
+      "name": "Damping",
+      "imageUrl": "https://scdn.autodoc.de/catalog/categories/600x600/10111.png",
+      "link": "https://www.autodoc.co.uk/car-parts/suspension"
+    },
+    {
+      "id": "11002",
+      "name": "Exhaust gas recirculation",
+      "imageUrl": "https://scdn.autodoc.de/catalog/categories/600x600/11002.png"
+    },
+    {
+      "id": "10116",
+      "name": "Belts, chains, rollers",
+      "imageUrl": "https://scdn.autodoc.de/catalog/categories/600x600/10116.png",
+      "link": "https://www.autodoc.co.uk/car-parts/belt-drive"
+    },
+    {
+      "id": "11001",
+      "name": "Forced induction components",
+      "imageUrl": "https://scdn.autodoc.de/catalog/categories/600x600/11001.png"
+    },
+    {
+      "id": "10107",
+      "name": "Engine cooling system",
+      "imageUrl": "https://scdn.autodoc.de/catalog/categories/600x600/10107.png",
+      "link": "https://www.autodoc.co.uk/car-parts/cooling-system"
+    },
+    {
+      "id": "10101",
+      "name": "Body",
+      "imageUrl": "https://scdn.autodoc.de/catalog/categories/600x600/10101.png",
+      "link": "https://www.autodoc.co.uk/car-parts/body"
+    },
+    {
+      "id": "10341",
+      "name": "Heating and ventilation",
+      "imageUrl": "https://scdn.autodoc.de/catalog/categories/600x600/10341.png",
+      "link": "https://www.autodoc.co.uk/car-parts/heater"
+    },
+    {
+      "id": "10314",
+      "name": "Gaskets and sealing rings",
+      "imageUrl": "https://scdn.autodoc.de/catalog/categories/600x600/10314.png",
+      "link": "https://www.autodoc.co.uk/car-parts/gaskets-and-sealing-rings"
+    },
+    {
+      "id": "10104",
+      "name": "Exhaust",
+      "imageUrl": "https://scdn.autodoc.de/catalog/categories/600x600/10104.png",
+      "link": "https://www.autodoc.co.uk/car-parts/exhaust-system"
+    },
+    {
+      "id": "10441",
+      "name": "Interior",
+      "imageUrl": "https://scdn.autodoc.de/catalog/categories/600x600/10441.png",
+      "link": "https://www.autodoc.co.uk/car-parts/interior-equipment"
+    },
+    {
+      "id": "10354",
+      "name": "Fuel supply system",
+      "imageUrl": "https://scdn.autodoc.de/catalog/categories/600x600/10354.png",
+      "link": "https://www.autodoc.co.uk/car-parts/fuel-mixture-formation"
+    },
+    {
+      "id": "10112",
+      "name": "Steering",
+      "imageUrl": "https://scdn.autodoc.de/catalog/categories/600x600/10112.png",
+      "link": "https://www.autodoc.co.uk/car-parts/steering"
+    },
+    {
+      "id": "10150",
+      "name": "Clutch",
+      "imageUrl": "https://scdn.autodoc.de/catalog/categories/600x600/10150.png",
+      "link": "https://www.autodoc.co.uk/car-parts/clutch-parts"
+    },
+    {
+      "id": "10114",
+      "name": "Drive shaft and cv joint",
+      "imageUrl": "https://scdn.autodoc.de/catalog/categories/600x600/10114.png",
+      "link": "https://www.autodoc.co.uk/car-parts/wheel-drive"
+    },
+    {
+      "id": "11003",
+      "name": "Air suspension",
+      "imageUrl": "https://scdn.autodoc.de/catalog/categories/600x600/11003.png"
+    },
+    {
+      "id": "10115",
+      "name": "Towbar / parts",
+      "imageUrl": "https://scdn.autodoc.de/catalog/categories/600x600/10115.png",
+      "link": "https://www.autodoc.co.uk/car-parts/towbar-parts"
+    },
+    {
+      "id": "10338",
+      "name": "Gearbox",
+      "imageUrl": "https://scdn.autodoc.de/catalog/categories/600x600/10338.png",
+      "link": "https://www.autodoc.co.uk/car-parts/transmission"
+    },
+    {
+      "id": "10343",
+      "name": "Air conditioning",
+      "imageUrl": "https://scdn.autodoc.de/catalog/categories/600x600/10343.png",
+      "link": "https://www.autodoc.co.uk/car-parts/air-conditioning"
+    },
+    {
+      "id": "10785",
+      "name": "Bearings",
+      "imageUrl": "https://scdn.autodoc.de/catalog/categories/600x600/10785.png",
+      "link": "https://www.autodoc.co.uk/car-parts/bearings"
+    },
+    {
+      "id": "10500",
+      "name": "Propshafts and differentials",
+      "imageUrl": "https://scdn.autodoc.de/catalog/categories/600x600/10500.png",
+      "link": "https://www.autodoc.co.uk/car-parts/axle-drive"
+    },
+    {
+      "id": "10439",
+      "name": "Sensors, relays, control units",
+      "imageUrl": "https://scdn.autodoc.de/catalog/categories/600x600/10439.png",
+      "link": "https://www.autodoc.co.uk/car-parts/sensors-relays-control-units"
+    },
+    {
+      "id": "33000",
+      "name": "Car accessories",
+      "imageUrl": "https://scdn.autodoc.de/catalog/categories/300x300/33000.png",
+      "link": "https://www.autodoc.co.uk/car-accessories"
+    },
+    {
+      "id": "15001",
+      "name": "Repair kits",
+      "imageUrl": "https://scdn.autodoc.de/catalog/categories/600x600/15001.png",
+      "link": "https://www.autodoc.co.uk/car-parts/repair-kits"
+    },
+    {
+      "id": "36000",
+      "name": "Tools & equipment",
+      "imageUrl": "https://scdn.autodoc.de/catalog/categories/300x300/36000.png",
+      "link": "https://www.autodoc.co.uk/tools"
+    },
+    {
+      "id": "15000",
+      "name": "Pipes and hoses",
+      "imageUrl": "https://scdn.autodoc.de/catalog/categories/600x600/15000.png",
+      "link": "https://www.autodoc.co.uk/car-parts/pipes-and-hoses"
+    },
+    {
+      "id": "30000",
+      "name": "Auto detailing & car care",
+      "imageUrl": "https://scdn.autodoc.de/catalog/categories/300x300/30000.png",
+      "link": "https://www.autodoc.co.uk/car-care"
+    },
+    {
+      "id": "74832",
+      "name": "Lighting",
+      "imageUrl": "https://scdn.autodoc.de/catalog/categories/600x600/74832.png",
+      "link": "https://www.autodoc.co.uk/car-parts/lighting"
+    },
+    {
+      "id": "74849",
+      "name": "Fasteners",
+      "imageUrl": "https://scdn.autodoc.de/catalog/categories/600x600/74849.png",
+      "link": "https://www.autodoc.co.uk/car-parts/fasteners"
+    },
+    {
+      "id": "74857",
+      "name": "Tuning",
+      "imageUrl": "https://scdn.autodoc.de/catalog/categories/600x600/74857.png",
+      "link": "https://www.autodoc.co.uk/car-parts/tuning"
+    }
+  ]
+}
